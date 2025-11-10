@@ -3,7 +3,7 @@
 
 int main()
 {
-    int i, j, n, m;
+    int i, j, n;
     for (i = 1; i<=6; i++) {
         for (j=6; j>=i; j--) 
         {
@@ -17,5 +17,6 @@ int main()
 		printf("\n");
     }
 }
+
 
 
